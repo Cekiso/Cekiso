@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me: Nonkululeko Cikiso (@Cekiso)
-🔭 Building apps every day and learning something new each time<br>👯 Open to collaborating on beginner-friendly and open-source projects<br>🤝 Always happy to get feedback, tips, and guidance<br>🌱 Currently learning JavaScript and modern web development<br>💬 Ask me about my projects or my journey into tech<br>⚡ Fun fact: I spend more time naming variables than writing logic
+🔭 Building apps every day and learning something new each time<br>👯 Open to collaborating on beginner-friendly and open-source projects<br>🤝 Always happy to get feedback, tips, and guidance<br>🌱 JavaScript and modern web development<br>🤖 Currently learning Ai <br>💬 Ask me about my projects or my journey into tech<br>⚡ Fun fact: I spend more time naming variables than writing logic
 
 
 ## 🌐 Socials:
