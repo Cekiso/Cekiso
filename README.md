@@ -16,6 +16,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Cekiso&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![]https://github.com/Cekiso?tab=achievements
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
